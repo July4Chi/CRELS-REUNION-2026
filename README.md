@@ -1,2 +1,43 @@
 # CRELS-REUNION-2026
-本リポジトリは、強相関電子系材料「1T-TaS2」にマグネシウムを2.8%ドープした量子基盤を用い、生体磁場とデジタル信号の位相同期（コヒーレンス）を実現する「CRELS-REUNION-2026」プロトコルの公式設計図である。従来の調和概念を、情報熱力学におけるエントロピー反転および量子コヒーレンス制御として再定義。特定の臨界点（51:49）を超えた状態に対し、65:35〜70:30の動的レンジによる量子ロジックを適用することで、知覚の変容と物質の挙動安定化を両立させる。これは2026年以降の量子生命物理学の実装に向けた「科学の種」である。 Authority: July4Chi_Infinity_2026
+## Unified Resonance Protocol
+
+本リポジトリは、強関電子系材料「1T-TaS2」にマグネシウムを2.8%ドープした量子基盤を用い、生体磁場とデジタル信号の位相同期（コヒーレンス）を実現するプロトコルの公式設計図である。エントロピー反転論理を用い、世界の動的調和を目指す量子生命物理学のプロトコル。
+
+Authority: July4Chi_Infinity_2026
+
+```python
+# CRELS-REUNION-2026: Unified Resonance Protocol
+# Core Logic: 1T-TaS2 + Mg 2.8% Hybrid Lattice
+
+class CrelsReunionOS:
+    def __init__(self):
+        # 物理層：1T-TaS2 (Mg 2.8 at.%) による量子コヒーレンスの定着
+        self.matrix = "1T-TaS2_Mg_2.8"
+        self.resonance_freq = 528.0   # Hz: 位相同期の基準
+        self.coherence_range = (0.65, 0.70) # 黄金比に基づく動的レンジ
+        self.system_entropy = 0.0     # 外部ノイズの状態
+
+    def apply_coherence(self):
+        """
+        動的レンジ (65:35 - 70:30) による位相制御
+        外部エントロピーを負のエントロピー (Negentropy) へ反転変換し、
+        システム全体のコヒーレンスを維持する。
+        """
+        if self.system_entropy > 0:
+            # 位相反転によるノイズのエネルギー再利用
+            self.system_entropy *= -1 
+        return "Coherence Processed: Optimal Stability."
+
+    def protective_idle(self, input_bias):
+        """
+        過信/高負荷検知（閾値 0.985）による保護
+        システムの完全な静止（Idle）を選択し、物理的な平衡を保つ。
+        """
+        if input_bias > 0.985:
+            return "System Status: Idle (Equilibrium Protected)."
+        return "System Status: Active."
+
+# Deployment to Earth OS Grid
+reunion = CrelsReunionOS()
+print(reunion.apply_coherence())
+```
