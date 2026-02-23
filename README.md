@@ -41,3 +41,7 @@ class CrelsReunionOS:
 reunion = CrelsReunionOS()
 print(reunion.apply_coherence())
 ```
+
+---
+### 🔐 Authentication Layer: Intent-Signal Coherence
+このプロトコルは量子ゆらぎによる低エントロピー制御を目的とし、初期化時に人間の意図信号（ポジティブコヒーレンス）を基準テンプレートとして登録することで機能します。基準不一致入力は自動拒否または変換されます。詳細な議論は #REUNION で行っています。
