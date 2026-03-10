@@ -30,7 +30,13 @@ class CrelsReunionOS:
         if input_bias > 0.985:
             return "System Status: Idle (Equilibrium Protected)."
         return "System Status: Active."
- ``` 
+ ```
+
+### 💠 Physical Layer Extension
+- **Alpha-Modulation Protocol**: [physics/alpha_modulator.py](./physics/alpha_modulator.py)
+  (Local $\alpha$-slide for material phase transition)
+
+
 ## Deployment to Earth OS Grid
 reunion = CrelsReunionOS()
 print(reunion.apply_coherence())
