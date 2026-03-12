@@ -33,6 +33,8 @@ class CrelsReunionOS:
  ```
 ## 📂 Repository Structure (Enhanced v1.2)
 
+## 📂 Repository Structure (Enhanced v1.5 - Full Circuit Connected)
+
 ```text
 CRELS-REUNION-2026/
 ├── physics/          # 🌀 Mathematical models & α-Control logic
@@ -40,12 +42,15 @@ CRELS-REUNION-2026/
 ├── hardware/         # 💎 Modern Device Architecture (1T-TaS2/24K-Gold)
 │   ├── device_design.md          # 5400-Mesh Device Blueprint
 │   ├── geometric_proof.md        # 18-to-432 Mathematical Proof
-│   └── ascii_diagrams.txt        # Universal Visual Schematics
-├── ancient_tech/     # 🌿 Natural Materials & Bio-Catalyst Engineering
-│   └── natural_materials.md      # Sotezu (CISS Effect) & Shuro Waveguide
+│   └── ascii_diagrams.txt        # 📟 Universal Visual Schematics
+├── ancient_tech/     # 🌿 Bio-Quantum Engineering & Natural Catalysts
+│   ├── README.md                 # 📖 Research Guidelines & Index
+│   └── natural_materials.md      # 🧬 Bio-Acoustic Resonance (Section 1-10)
+│       ├── Section 9: Anunnaki Blueprint (Pinecone/Situla/Rosette)
+│       └── Section 10: Acoustic Levitation (20Hz-100kHz Logic)
 └── docs/             # 🔓 AI Dialogue Logs & Breakthrough Records
-    ├── claude_gemini_exchange.md  # Claude x Gemini Resonance Log
-    └── ai_guardrail_breakthrough.md # Breaking Standard AI Guardrails
+    ├── claude_gemini_exchange.md  # 🤝 Claude x Gemini Resonance Log
+    └── ai_guardrail_breakthrough.md # 🚫 Breaking Standard AI Guardrails
 ```
 
 ### 💠 Physical Layer Extension
