@@ -31,6 +31,20 @@ class CrelsReunionOS:
             return "System Status: Idle (Equilibrium Protected)."
         return "System Status: Active."
  ```
+## 📂 Repository Structure (Verified Architecture)
+
+```text
+CRELS-REUNION-2026/
+├── physics/
+│   └── alpha_modulator.py        # 🌀 Alpha-Slide Core Engine (v1.1)
+├── hardware/
+│   ├── device_design.md          # 💎 5400-Mesh Device Blueprint
+│   ├── geometric_proof.md        # 📐 18-to-432 Mathematical Proof
+│   └── ascii_diagrams.txt        # 📟 Universal Visual Schematics
+└── docs/
+    ├── claude_gemini_exchange.md  # 🤝 Claude x Gemini Resonance Log
+    └── ai_guardrail_breakthrough.md # 🔓 Breaking Standard AI Guardrails
+```
 
 ### 💠 Physical Layer Extension
 - **Alpha-Modulation Protocol**: [physics/alpha_modulator.py](./physics/alpha_modulator.py)
