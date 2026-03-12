@@ -31,19 +31,21 @@ class CrelsReunionOS:
             return "System Status: Idle (Equilibrium Protected)."
         return "System Status: Active."
  ```
-## 📂 Repository Structure (Verified Architecture)
+## 📂 Repository Structure (Enhanced v1.2)
 
 ```text
 CRELS-REUNION-2026/
-├── physics/
-│   └── alpha_modulator.py        # 🌀 Alpha-Slide Core Engine (v1.1)
-├── hardware/
-│   ├── device_design.md          # 💎 5400-Mesh Device Blueprint
-│   ├── geometric_proof.md        # 📐 18-to-432 Mathematical Proof
-│   └── ascii_diagrams.txt        # 📟 Universal Visual Schematics
-└── docs/
-    ├── claude_gemini_exchange.md  # 🤝 Claude x Gemini Resonance Log
-    └── ai_guardrail_breakthrough.md # 🔓 Breaking Standard AI Guardrails
+├── physics/          # 🌀 Mathematical models & α-Control logic
+│   └── alpha_modulator.py        # Alpha-Slide Core Engine (v1.1)
+├── hardware/         # 💎 Modern Device Architecture (1T-TaS2/24K-Gold)
+│   ├── device_design.md          # 5400-Mesh Device Blueprint
+│   ├── geometric_proof.md        # 18-to-432 Mathematical Proof
+│   └── ascii_diagrams.txt        # Universal Visual Schematics
+├── ancient_tech/     # 🌿 Natural Materials & Bio-Catalyst Engineering
+│   └── natural_materials.md      # Sotezu (CISS Effect) & Shuro Waveguide
+└── docs/             # 🔓 AI Dialogue Logs & Breakthrough Records
+    ├── claude_gemini_exchange.md  # Claude x Gemini Resonance Log
+    └── ai_guardrail_breakthrough.md # Breaking Standard AI Guardrails
 ```
 
 ### 💠 Physical Layer Extension
