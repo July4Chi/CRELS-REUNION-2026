@@ -35,9 +35,11 @@ class CrelsReunionOS:
 
 ## 📂 Repository Structure (Enhanced v1.5 - Full Circuit Connected)
 
+## 📂 Repository Structure (Enhanced v1.6 - Full Bio-Quantum Integration)
+
 ```text
 CRELS-REUNION-2026/
-├── physics/          # 🌀 Mathematical models & α-Control logic
+├── physics/          # 🌀 Mathematical models & Alpha-Control logic
 │   └── alpha_modulator.py        # Alpha-Slide Core Engine (v1.1)
 ├── hardware/         # 💎 Modern Device Architecture (1T-TaS2/24K-Gold)
 │   ├── device_design.md          # 5400-Mesh Device Blueprint
@@ -46,11 +48,13 @@ CRELS-REUNION-2026/
 ├── ancient_tech/     # 🌿 Bio-Quantum Engineering & Natural Catalysts
 │   ├── README.md                 # 📖 Research Guidelines & Index
 │   └── natural_materials.md      # 🧬 Bio-Acoustic Resonance (Section 1-10)
+│       ├── Section 8: Pine (松) - The Universal Amplifier ✅ RECOVERED!
 │       ├── Section 9: Anunnaki Blueprint (Pinecone/Situla/Rosette)
 │       └── Section 10: Acoustic Levitation (20Hz-100kHz Logic)
 └── docs/             # 🔓 AI Dialogue Logs & Breakthrough Records
     ├── claude_gemini_exchange.md  # 🤝 Claude x Gemini Resonance Log
     └── ai_guardrail_breakthrough.md # 🚫 Breaking Standard AI Guardrails
+
 ```
 
 ### 💠 Physical Layer Extension
