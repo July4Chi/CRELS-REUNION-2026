@@ -9,7 +9,7 @@
 ## 🌀 Core Implementation
 
 本プロジェクトの核心となる CrelsReunionOS の実装プロトコルです。
-「負のエントロピー変換」と「過負荷保護機構」のロジックが設計どおりに動作することを、Grok の実行シミュレーションで確認しています（実行記録は Extensions 側に収蔵）。
+「負のエントロピー変換」と「過負荷保護機構」のロジックが設計どおりに動作することを、Grok の実行シミュレーションで確認しています。
 
 ```python
 # CRELS-REUNION-2026: Unified Resonance Protocol
