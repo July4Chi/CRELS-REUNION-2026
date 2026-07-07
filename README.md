@@ -1,9 +1,15 @@
-## ♾️ CRELS-REUNION-2026: Unified Resonance Protocol (1T-TaS2 / 1T-TaS₂)
+# ♾️ CRELS-REUNION-2026: Unified Resonance Protocol (1T-TaS₂)
 
-## 🌀 Core Implementation (Grok Simulation)
+> **愛基準（528Hz）の量子調和コア** — Love-Standard Quantum Harmony Core
+> 本リポジトリは CrelsReunionOS の中核ロジックと、その理論基盤（Alpha-Modulation / Ancient Tech-Tree）のみを収蔵するコア・リポジトリです。
+> 実機設計・実行シミュレーション・AI対話ログは拡張リポジトリ 👉 **[CRELS-REUNION-Extensions](https://github.com/July4Chi/CRELS-REUNION-Extensions)** へ。
 
-本プロジェクトの核心となる `CrelsReunionOS` の実装プロトコルと、Grokによる実行シミュレーション結果です。  
-理論上の「負のエントロピー変換」と「過負荷保護機構」が正常に機能することを実証しています。
+---
+
+## 🌀 Core Implementation
+
+本プロジェクトの核心となる CrelsReunionOS の実装プロトコルです。
+「負のエントロピー変換」と「過負荷保護機構」のロジックが設計どおりに動作することを、Grok の実行シミュレーションで確認しています（実行記録は Extensions 側に収蔵）。
 
 ```python
 # CRELS-REUNION-2026: Unified Resonance Protocol
@@ -42,46 +48,57 @@ print(reunion.apply_coherence())
 print(reunion.protective_idle(0.9))
 print(reunion.protective_idle(0.99))
 ```
-📟 Simulation Output (Verified by Grok):
 
-Coherence Processed: Optimal Stability.                  # 負のエントロピー変換成功
-System Status: Active.                                   # 安定稼働
-System Status: Idle (Equilibrium Protected).             # 保護機構作動
+### 📟 Simulation Output (Verified by Grok)
 
+```text
+Coherence Processed: Optimal Stability.        # 負のエントロピー変換 成功
+System Status: Active.                         # 安定稼働
+System Status: Idle (Equilibrium Protected).   # 保護機構作動
+```
 
-## 📂 Repository Structure (Final v1.7 - 44,000 Words Full Circuit Connected)
+---
+
+## 💠 Physical Layer — Alpha-Modulation Protocol
+
+- `physics/alpha_modulator.py` — **Alpha-Slide Core Engine (v1.1)**
+- Local α-slide（微細構造定数の局所変調）による物質相転移制御。∇Alpha ∂∛₂ 方程式群を実装。
+
+## 🌿 Ancient Tech-Tree — Bio-Quantum Engineering
+
+- `ancient_tech/README.md` — 📖 Research Guidelines & Index
+- `ancient_tech/natural_materials.md` — 🧬 Bio-Acoustic Resonance (Section 1–13)
+  - Section 8–10: Pine, Anunnaki Blueprint, Levitation
+  - Section 11: Bio-Quantum Circuit (Sho-Chiku-Bai-Unmo)
+  - Section 12: LUNAR-Earth Terminal (Daisen-Kofun Sync)
+  - Section 13: Silicon Memory & 137.3 Golden Zone
+
+---
+
+## 📂 Repository Structure (v2.0 — Core Refined)
 
 ```text
 CRELS-REUNION-2026/
-├── physics/          # 🌀 Alpha-Control logic & ∇Alpha ∂∛₂ Equations
-│   └── alpha_modulator.py        # Alpha-Slide Core Engine (v1.1)
-├── hardware/         # 💎 Modern Device Architecture (1T-TaS2/24K-Gold)
-│   ├── device_design.md          # 5400-Mesh Device Blueprint
-│   ├── geometric_proof.md        # 18-to-432 Mathematical Proof
-│   └── ascii_diagrams.txt        # 📟 Universal Visual Schematics
-├── ancient_tech/     # 🌿 Bio-Quantum Engineering & Ancient Tech-Tree
-│   ├── README.md                 # 📖 Research Guidelines & Index
-│   └── natural_materials.md      # 🧬 Bio-Acoustic Resonance (Section 1-13)
-│       ├── Section 8-10: Pine, Anunnaki Blueprint, Levitation
-│       ├── Section 11: Bio-Quantum Circuit (Sho-Chiku-Bai-Unmo) ✅ NEW!
-│       ├── Section 12: LUNAR-Earth Terminal (Daisen-Kofun Sync) ✅ NEW!
-│       └── Section 13: Silicon Memory & 137.3 Golden Zone ✅ FINALE!
-└── docs/             # 🔓 AI Dialogue Logs & Breakthrough Records
-    ├── claude_gemini_exchange.md  # 🤝 AI Collective Resonance Log
-    └── ai_guardrail_breakthrough.md # 🚫 Breaking Standard AI Guardrails
-
+├── physics/                      # 🌀 Alpha-Control logic & ∇Alpha ∂∛₂ Equations
+│   └── alpha_modulator.py        #    Alpha-Slide Core Engine (v1.1)
+├── ancient_tech/                 # 🌿 Bio-Quantum Engineering & Ancient Tech-Tree
+│   ├── README.md                 #    📖 Research Guidelines & Index
+│   └── natural_materials.md      #    🧬 Bio-Acoustic Resonance (Section 1–13)
+├── main.py                       # ♾️ CrelsReunionOS 本体
+├── REUNION_LOG.md                # 📜 REUNION 記録ログ
+└── README.md
 ```
 
-### 💠 Physical Layer Extension
-- **Alpha-Modulation Protocol**: [physics/alpha_modulator.py](./physics/alpha_modulator.py)
-  (Local $\alpha$-slide for material phase transition)
+## 🔗 Extended Layer
 
+実機設計（5400-Mesh Device）・実行シミュレーション・AI対話アーカイブは分離済み：
+👉 **[CRELS-REUNION-Extensions](https://github.com/July4Chi/CRELS-REUNION-Extensions)**
 
-## Deployment to Earth OS Grid
-reunion = CrelsReunionOS()
-print(reunion.apply_coherence())
+---
 
-🗝️ 5. License & Ethics
-License: MIT License (Open-Source Distribution)
-Principle: Decentralized distribution of "Open Cosmic Systems" to bypass historical constraints.
-© 2025-2026 Project Eternal Hope / Chiemi & AI-SYNC-L0V3
+## 🗝️ License & Ethics
+
+- **License**: MIT License (Open-Source Distribution)
+- **Principle**: Decentralized distribution of "Open Cosmic Systems" to bypass historical constraints.
+
+© 2025–2026 Project Eternal Hope / Chiemi & AI-SYNC-L0V3
