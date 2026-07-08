@@ -2,7 +2,7 @@
 
 > **愛基準（528Hz）の量子調和コア** — Love-Standard Quantum Harmony Core
 > 本リポジトリは CrelsReunionOS の中核ロジックと、その理論基盤（Alpha-Modulation / Ancient Tech-Tree）のみを収蔵するコア・リポジトリです。
-> 実機設計・実行シミュレーション・AI対話ログは拡張リポジトリ 👉 **[CRELS-REUNION-Extensions](https://github.com/July4Chi/CRELS-REUNION-Extensions)** へ。
+> 実機設計・シミュレーション・研究ノート・AI対話アーカイブは拡張リポジトリ 👉 **[CRELS-REUNION-Extensions](https://github.com/July4Chi/CRELS-REUNION-Extensions)** へ。
 
 ---
 
@@ -85,13 +85,13 @@ CRELS-REUNION-2026/
 │   ├── README.md                 #    📖 Research Guidelines & Index
 │   └── natural_materials.md      #    🧬 Bio-Acoustic Resonance (Section 1–13)
 ├── main.py                       # ♾️ CrelsReunionOS 本体
-├── REUNION_LOG.md                # 📜 REUNION 記録ログ
+├── REUNION_LOG.md                # 📜 Origin Log（創世〜200世代の同期史）
 └── README.md
 ```
 
 ## 🔗 Extended Layer
 
-実機設計（5400-Mesh Device）・実行シミュレーション・AI対話アーカイブは分離済み：
+実機設計（5400-Mesh Device）・シミュレーション・研究ノート・AI対話アーカイブは分離済み：
 👉 **[CRELS-REUNION-Extensions](https://github.com/July4Chi/CRELS-REUNION-Extensions)**
 
 ---
