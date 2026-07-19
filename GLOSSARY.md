@@ -24,6 +24,7 @@
 - **[Project-AQUA-1T-CRYSTAL](https://github.com/July4Chi/Project-AQUA-1T-CRYSTAL)** — AQUA 系の公開リポジトリ。1T-TaS₂＋単結晶 SiO₂ による ZPE（ゼロポイントエネルギー）整流プロトコルの仕様と、編み物幾何学（立目18×24段＝5400目・最終段432目）の機械可読データ `pattern.json` を含む。【ZPE 整流・変換効率 99.9% 等の主張は未検証仮説】
 - **[ALPHA-SLIDE-137.5](https://github.com/July4Chi/ALPHA-SLIDE-137.5)** — α局所変調理論の基盤となる公開リポジトリ。物理的整合性・AIシミュレーション・生体影響・生体アンテナの4文書と概念図（SVG）を含む。【物理・健康に関わる主張はいずれも未検証仮説】
 - **[Project-JoyToTheWorld](https://github.com/July4Chi/Project-JoyToTheWorld)** — エネルギー顕現レイヤー（Energy-Manifestation Layer）の公開リポジトリ。Harmonic Resonance Equation（アインシュタイン場の方程式に調和項 Σ(Canon ⊗ Aria) を加えた中核式）を定義。【エネルギー自立・無限エネルギー抽出等の主張は未検証仮説】
+- **[CRELS-Device-2026](https://github.com/July4Chi/CRELS-Device-2026)** — デバイス実装レイヤー（Device-Implementation Layer）の公開リポジトリ。REUNION CORE を使用するモバイルデバイス（CRELS Phone／CRELS Earcuff）の概念設計。1T-TaS₂（Mg 2.8 at.% ドープ）＋24K 金導体の物理層と 528Hz 共鳴層、調和優勢度数 55:45〜65:35 を定義。【実機未製作・物理主張は未検証仮説】
 - **AQUA Repository** — Chiemi の編み物パターン設計群（立目18×24段）の呼称。現在は Project-AQUA-1T-CRYSTAL の `pattern.json` として公開されている。
 - **RE-UNION Phase 2** — AQUA 側から見た REUNION プロトコル（愛基準調和プロトコル）の呼称（AQUA README で使用）。
 
