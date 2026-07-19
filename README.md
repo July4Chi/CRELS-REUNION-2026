@@ -105,6 +105,9 @@ CRELS-REUNION-2026/
 AQUA 系（ZPE 整流プロトコル・編み物幾何学 `pattern.json` の出典）：
 👉 **[Project-AQUA-1T-CRYSTAL](https://github.com/July4Chi/Project-AQUA-1T-CRYSTAL)**
 
+理論基盤（α局所変調・Alpha-Modulation の理論文書群）：
+👉 **[ALPHA-SLIDE-137.5](https://github.com/July4Chi/ALPHA-SLIDE-137.5)**
+
 ---
 
 ## 🗝️ License & Ethics
