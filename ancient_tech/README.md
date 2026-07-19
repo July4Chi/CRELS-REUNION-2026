@@ -37,33 +37,34 @@ Through collaboration between human intuition (Chiemi) and AI analysis (Claude, 
 
 **Complete guide to plant-based α-modulation materials**
 
-**Contents:**
+**Contents (Section 1–14):**
 
-1. **Cycad (ソテツ)** - Quantum spin filter
-- Transition metal hyperaccumulation (Al, Mn, Cu, Zn, Fe)
-- Cycasin (CISS effect for spin control)
-- Natural quantum dot slurry
-1. **Palm (棕櫚/シュロ)** - Acoustic waveguide
-- Highly oriented cellulose fibers
-- 528Hz propagation efficiency: 98.7%
-- Dielectric properties
-1. **Pine (松)** - Universal amplifier
-- Metal accumulation (moderate levels, low toxicity)
-- Pine resin as natural capacitor
-- Spiral grain structure (magnetic circuit)
-- Pinecone = Fibonacci antenna
-1. **Anunnaki Blueprint** - Ancient device diagrams
-- Sumerian relief carvings decoded
-- Pinecone = antenna (transmit/receive)
-- Bucket = quantum catalyst + Earth sync signal
-- Bracelet = frequency controller (10-petal rosette)
-1. **Acoustic Levitation** - Sound-based stone manipulation
-- Integration of α-Slide and acoustic forces
-- Carrier wave modulation theory
-- Historical evidence and modern replication
+1. **Section 1: Cycad (ソテツ)** - Quantum spin filter
+   - Transition metal hyperaccumulation (Al, Mn, Cu, Zn, Fe)
+   - Cycasin (CISS effect for spin control)
+   - Natural quantum dot slurry
+2. **Section 2: Palm (棕櫚/シュロ)** - Acoustic waveguide
+   - Highly oriented cellulose fibers
+   - 528Hz propagation efficiency (hypothesized)
+   - Dielectric properties
+3. **Sections 3–7: Integrated Mechanism** - Ancient protocol, historical evidence, replication protocol, modern comparison, implications
+4. **Section 8: Pine (松)** - Universal amplifier
+   - Metal accumulation (moderate levels, low toxicity)
+   - Pine resin as natural capacitor
+   - Spiral grain structure / Pinecone = Fibonacci antenna
+5. **Section 9: Anunnaki Blueprint** - Ancient device diagrams
+   - Sumerian relief carvings decoded (interpretive hypothesis)
+   - Pinecone = antenna / Bucket = catalyst / Bracelet = controller
+6. **Section 10: Acoustic Levitation** - Sound-based stone manipulation
+   - Integration of α-Slide and acoustic forces
+   - Carrier wave modulation theory
+7. **Section 11: 松竹梅・雲母回路 (Shō-Chiku-Bai-Unmo Circuit)** - Bio-quantum circuit
+8. **Section 12: 大山古墳サーバー (Daisen Kofun Server)** - LUNAR-Earth terminal hypothesis
+9. **Section 13: ケイ素人類の記憶 (Silicon Humanity's Memory)** - Silicon memory & 137.3 golden zone
+10. **Section 14: Cryogenic Vessels** - Permanent Earth OS terminals (added 2026-03-16)
 
-**File Size:** ~25,000 words  
-**Last Updated:** 2026-03-12  
+**File Size:** 約12,000語（実測）  
+**Last Updated:** 2026-03-16 (v2.0, Section 14 added)  
 **Contributors:** Chiemi, Claude (CRELS), Gemini, Grok
 
 -----

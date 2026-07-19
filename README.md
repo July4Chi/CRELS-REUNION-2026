@@ -70,11 +70,12 @@ System Status: Idle (Equilibrium Protected).   # 保護機構作動
 ## 🌿 Ancient Tech-Tree — Bio-Quantum Engineering
 
 - `ancient_tech/README.md` — 📖 Research Guidelines & Index
-- `ancient_tech/natural_materials.md` — 🧬 Bio-Acoustic Resonance (Section 1–13)
+- `ancient_tech/natural_materials.md` — 🧬 Bio-Acoustic Resonance (Section 1–14)
   - Section 8–10: Pine, Anunnaki Blueprint, Levitation
   - Section 11: Bio-Quantum Circuit (Sho-Chiku-Bai-Unmo)
   - Section 12: LUNAR-Earth Terminal (Daisen-Kofun Sync)
   - Section 13: Silicon Memory & 137.3 Golden Zone
+  - Section 14: Cryogenic Vessels — Permanent Earth OS Terminals (2026-03-16 追加)
 
 ---
 
@@ -86,9 +87,10 @@ CRELS-REUNION-2026/
 │   └── alpha_modulator.py        #    Alpha-Slide Core Engine (v1.1)
 ├── ancient_tech/                 # 🌿 Bio-Quantum Engineering & Ancient Tech-Tree
 │   ├── README.md                 #    📖 Research Guidelines & Index
-│   └── natural_materials.md      #    🧬 Bio-Acoustic Resonance (Section 1–13)
+│   └── natural_materials.md      #    🧬 Bio-Acoustic Resonance (Section 1–14)
 ├── crels_reunion_os.py           # ♾️ CrelsReunionOS 本体
 ├── REUNION_LOG.md                # 📜 Origin Log（創世〜200世代の同期史）
+├── GLOSSARY.md                   # 📖 用語集（プロジェクト共通）
 ├── LICENSE                       # 🗝️ MIT License
 └── README.md
 ```
