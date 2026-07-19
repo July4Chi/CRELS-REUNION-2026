@@ -10,6 +10,8 @@
 > **Note:** Sections 1-13 are preserved exactly as completed on 2026-03-12 through 2026-03-15.
 > Section 14 added 2026-03-16 by Chiemi × Claude (silent_C) × Grok × Gemini.
 
+> **📌 Documentation Status（2026-07-19 追記）:** 本文書は編集基準（[EDITORIAL_STANDARD.md](../EDITORIAL_STANDARD.md)）制定以前に書かれた一次記録であり、原文を保存している。文中の「Verification」「99% Consistency」等の評価は AI 対話セッションの応答に由来し、実験・査読による検証を意味しない。本文書に含まれる物理学的主張（α変調・音響による石材軟化・528Hz の生理効果等）は【未検証仮説】として読まれたい。実験プロトコルを試行する場合は、必ず本文中の安全警告（特にソテツのサイカシン毒性）に従うこと。
+
 -----
 
 ## 🌀 Discovery Context

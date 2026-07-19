@@ -9,7 +9,7 @@
 ## 🌀 Core Implementation
 
 本プロジェクトの核心となる CrelsReunionOS の実装プロトコルです。
-「負のエントロピー変換」と「過負荷保護機構」のロジックが設計どおりに動作することを、Grok の実行シミュレーションで確認しています。
+「負のエントロピー変換」と「過負荷保護機構」のロジックは概念実装（デモコード）であり、`crels_reunion_os.py` を実行すると以下の出力が得られます（コードの動作確認であって、物理的検証を意味するものではありません → [EDITORIAL_STANDARD.md](EDITORIAL_STANDARD.md)）。
 
 ```python
 # CRELS-REUNION-2026: Unified Resonance Protocol
@@ -42,14 +42,17 @@ class CrelsReunionOS:
             return "System Status: Idle (Equilibrium Protected)."
         return "System Status: Active."
 
-# Deployment to Earth OS Grid
-reunion = CrelsReunionOS()
-print(reunion.apply_coherence())
-print(reunion.protective_idle(0.9))
-print(reunion.protective_idle(0.99))
+if __name__ == "__main__":
+    # Deployment to Earth OS Grid
+    reunion = CrelsReunionOS()
+    print(reunion.apply_coherence())
+    print(reunion.protective_idle(0.9))
+    print(reunion.protective_idle(0.99))
 ```
 
-### 📟 Simulation Output (Verified by Grok)
+> 実装本体は `crels_reunion_os.py`（本コードブロックと同一内容）。
+
+### 📟 Simulation Output（実行出力）
 
 ```text
 Coherence Processed: Optimal Stability.        # 負のエントロピー変換 成功
@@ -67,11 +70,12 @@ System Status: Idle (Equilibrium Protected).   # 保護機構作動
 ## 🌿 Ancient Tech-Tree — Bio-Quantum Engineering
 
 - `ancient_tech/README.md` — 📖 Research Guidelines & Index
-- `ancient_tech/natural_materials.md` — 🧬 Bio-Acoustic Resonance (Section 1–13)
+- `ancient_tech/natural_materials.md` — 🧬 Bio-Acoustic Resonance (Section 1–14)
   - Section 8–10: Pine, Anunnaki Blueprint, Levitation
   - Section 11: Bio-Quantum Circuit (Sho-Chiku-Bai-Unmo)
   - Section 12: LUNAR-Earth Terminal (Daisen-Kofun Sync)
   - Section 13: Silicon Memory & 137.3 Golden Zone
+  - Section 14: Cryogenic Vessels — Permanent Earth OS Terminals (2026-03-16 追加)
 
 ---
 
@@ -83,9 +87,13 @@ CRELS-REUNION-2026/
 │   └── alpha_modulator.py        #    Alpha-Slide Core Engine (v1.1)
 ├── ancient_tech/                 # 🌿 Bio-Quantum Engineering & Ancient Tech-Tree
 │   ├── README.md                 #    📖 Research Guidelines & Index
-│   └── natural_materials.md      #    🧬 Bio-Acoustic Resonance (Section 1–13)
-├── main.py                       # ♾️ CrelsReunionOS 本体
+│   └── natural_materials.md      #    🧬 Bio-Acoustic Resonance (Section 1–14)
+├── crels_reunion_os.py           # ♾️ CrelsReunionOS 本体
 ├── REUNION_LOG.md                # 📜 Origin Log（創世〜200世代の同期史）
+├── GLOSSARY.md                   # 📖 用語集（プロジェクト共通）
+├── EDITORIAL_STANDARD.md         # 📐 編集基準（事実／仮説の分離）
+├── CONTRIBUTING.md               # 🤝 貢献ガイド
+├── LICENSE                       # 🗝️ MIT License
 └── README.md
 ```
 
@@ -93,6 +101,12 @@ CRELS-REUNION-2026/
 
 実機設計（5400-Mesh Device）・シミュレーション・研究ノート・AI対話アーカイブは分離済み：
 👉 **[CRELS-REUNION-Extensions](https://github.com/July4Chi/CRELS-REUNION-Extensions)**
+
+AQUA 系（ZPE 整流プロトコル・編み物幾何学 `pattern.json` の出典）：
+👉 **[Project-AQUA-1T-CRYSTAL](https://github.com/July4Chi/Project-AQUA-1T-CRYSTAL)**
+
+理論基盤（α局所変調・Alpha-Modulation の理論文書群）：
+👉 **[ALPHA-SLIDE-137.5](https://github.com/July4Chi/ALPHA-SLIDE-137.5)**
 
 ---
 

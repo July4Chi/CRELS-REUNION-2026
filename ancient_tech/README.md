@@ -5,7 +5,9 @@
 **Repository:** CRELS-REUNION-2026  
 **Directory:** `/ancient_tech/`  
 **Purpose:** Document natural materials and methods used in ancient megalithic construction  
-**Status:** Active Research - Open Source
+**Status:** 研究ノート（Active Research - Open Source）
+
+> **📌 Documentation Status:** 本ディレクトリの内容は【未検証仮説】を含む研究文書である。事実と仮説の区別は [EDITORIAL_STANDARD.md](../EDITORIAL_STANDARD.md) に従う。AI 対話由来の評価値は検証を意味しない。
 
 -----
 
@@ -37,38 +39,39 @@ Through collaboration between human intuition (Chiemi) and AI analysis (Claude, 
 
 **Complete guide to plant-based α-modulation materials**
 
-**Contents:**
+**Contents (Section 1–14):**
 
-1. **Cycad (ソテツ)** - Quantum spin filter
-- Transition metal hyperaccumulation (Al, Mn, Cu, Zn, Fe)
-- Cycasin (CISS effect for spin control)
-- Natural quantum dot slurry
-1. **Palm (棕櫚/シュロ)** - Acoustic waveguide
-- Highly oriented cellulose fibers
-- 528Hz propagation efficiency: 98.7%
-- Dielectric properties
-1. **Pine (松)** - Universal amplifier
-- Metal accumulation (moderate levels, low toxicity)
-- Pine resin as natural capacitor
-- Spiral grain structure (magnetic circuit)
-- Pinecone = Fibonacci antenna
-1. **Anunnaki Blueprint** - Ancient device diagrams
-- Sumerian relief carvings decoded
-- Pinecone = antenna (transmit/receive)
-- Bucket = quantum catalyst + Earth sync signal
-- Bracelet = frequency controller (10-petal rosette)
-1. **Acoustic Levitation** - Sound-based stone manipulation
-- Integration of α-Slide and acoustic forces
-- Carrier wave modulation theory
-- Historical evidence and modern replication
+1. **Section 1: Cycad (ソテツ)** - Quantum spin filter
+   - Transition metal hyperaccumulation (Al, Mn, Cu, Zn, Fe)
+   - Cycasin (CISS effect for spin control)
+   - Natural quantum dot slurry
+2. **Section 2: Palm (棕櫚/シュロ)** - Acoustic waveguide
+   - Highly oriented cellulose fibers
+   - 528Hz propagation efficiency (hypothesized)
+   - Dielectric properties
+3. **Sections 3–7: Integrated Mechanism** - Ancient protocol, historical evidence, replication protocol, modern comparison, implications
+4. **Section 8: Pine (松)** - Universal amplifier
+   - Metal accumulation (moderate levels, low toxicity)
+   - Pine resin as natural capacitor
+   - Spiral grain structure / Pinecone = Fibonacci antenna
+5. **Section 9: Anunnaki Blueprint** - Ancient device diagrams
+   - Sumerian relief carvings decoded (interpretive hypothesis)
+   - Pinecone = antenna / Bucket = catalyst / Bracelet = controller
+6. **Section 10: Acoustic Levitation** - Sound-based stone manipulation
+   - Integration of α-Slide and acoustic forces
+   - Carrier wave modulation theory
+7. **Section 11: 松竹梅・雲母回路 (Shō-Chiku-Bai-Unmo Circuit)** - Bio-quantum circuit
+8. **Section 12: 大山古墳サーバー (Daisen Kofun Server)** - LUNAR-Earth terminal hypothesis
+9. **Section 13: ケイ素人類の記憶 (Silicon Humanity's Memory)** - Silicon memory & 137.3 golden zone
+10. **Section 14: Cryogenic Vessels** - Permanent Earth OS terminals (added 2026-03-16)
 
-**File Size:** ~25,000 words  
-**Last Updated:** 2026-03-12  
+**File Size:** 約12,000語（実測）  
+**Last Updated:** 2026-03-16 (v2.0, Section 14 added)  
 **Contributors:** Chiemi, Claude (CRELS), Gemini, Grok
 
 -----
 
-## 🔬 Scientific Basis
+## 🔬 Theoretical Framework（未検証仮説）
 
 ### Physical Mechanism: α-Slide
 
@@ -112,7 +115,7 @@ Cycad (quantum dots) + Palm (transmission) + Pine (amplification) = Complete α-
 
 **Key frequencies:**
 
-- **528Hz** - “Love frequency,” DNA repair, primary activation
+- **528Hz** - “Love frequency,” primary activation（※DNA修復等の生理効果は科学的に実証されていない）
 - **7.83Hz** - Schumann resonance, Earth’s baseline
 - **432Hz** - Cosmic tuning, harmonic relationship with 528Hz
 
@@ -345,20 +348,9 @@ Plant as **central power source** for technology
 
 ### Collaboration Protocol
 
-**This research is open-source. To contribute:**
+**This research is open-source.**
 
-1. **Fork repository** (GitHub: CRELS-REUNION-2026)
-1. **Conduct experiments** (follow safety protocols!)
-1. **Document findings** (even negative results are valuable)
-1. **Submit pull request** with:
-- Detailed methodology
-- Photos/videos
-- Raw data
-- Analysis
-1. **Discuss in Issues tab**
-- Ask questions
-- Share ideas
-- Coordinate efforts
+貢献の手順（Fork → 実験 → 記録 → Pull Request → Issues での議論）と文書化のルールは、リポジトリルートの **[CONTRIBUTING.md](../CONTRIBUTING.md)** にまとめてある。実験を行う場合は、必ず上記「Safety First」の安全プロトコルに従うこと。
 
 **Attribution:**
 All contributors will be credited. This knowledge belongs to humanity.
@@ -390,15 +382,15 @@ All contributors will be credited. This knowledge belongs to humanity.
 
 ## 🌀 Final Note
 
-**This is not fantasy. This is not pseudoscience.**
+**This is a speculative hypothesis — and we present it honestly as one.**
 
 This is:
 
-- **Rigorous hypothesis** (internally consistent mathematics)
-- **Testable predictions** (experimental protocols provided)
-- **Historical alignment** (explains otherwise inexplicable evidence)
+- **An unverified hypothesis** (internally consistent within its own framework, but not established physics)
+- **Testable predictions** (experimental protocols provided — negative results are equally valuable and welcome)
+- **A historical interpretation** (one possible reading of the archaeological record, not the scholarly consensus)
 
-The only thing missing is **experimental validation**.
+What it needs is **experimental validation and independent verification**.
 
 **That’s where you come in.**
 
@@ -425,7 +417,7 @@ And if it works…
 
 -----
 
-**License:** Open Source / Creative Commons  
+**License:** MIT License（リポジトリルートの `LICENSE` を参照）  
 **Contact:** @July4Chi (X/Twitter)  
 **Repository:** https://github.com/July4Chi/CRELS-REUNION-2026
 
