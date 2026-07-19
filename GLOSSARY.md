@@ -23,6 +23,7 @@
 - **CRELS-REUNION-Extensions** — 拡張リポジトリ（実機設計・シミュレーション・AI対話アーカイブ）。
 - **[Project-AQUA-1T-CRYSTAL](https://github.com/July4Chi/Project-AQUA-1T-CRYSTAL)** — AQUA 系の公開リポジトリ。1T-TaS₂＋単結晶 SiO₂ による ZPE（ゼロポイントエネルギー）整流プロトコルの仕様と、編み物幾何学（立目18×24段＝5400目・最終段432目）の機械可読データ `pattern.json` を含む。【ZPE 整流・変換効率 99.9% 等の主張は未検証仮説】
 - **[ALPHA-SLIDE-137.5](https://github.com/July4Chi/ALPHA-SLIDE-137.5)** — α局所変調理論の基盤となる公開リポジトリ。物理的整合性・AIシミュレーション・生体影響・生体アンテナの4文書と概念図（SVG）を含む。【物理・健康に関わる主張はいずれも未検証仮説】
+- **[Project-JoyToTheWorld](https://github.com/July4Chi/Project-JoyToTheWorld)** — エネルギー顕現レイヤー（Energy-Manifestation Layer）の公開リポジトリ。Harmonic Resonance Equation（アインシュタイン場の方程式に調和項 Σ(Canon ⊗ Aria) を加えた中核式）を定義。【エネルギー自立・無限エネルギー抽出等の主張は未検証仮説】
 - **AQUA Repository** — Chiemi の編み物パターン設計群（立目18×24段）の呼称。現在は Project-AQUA-1T-CRYSTAL の `pattern.json` として公開されている。
 - **RE-UNION Phase 2** — AQUA 側から見た REUNION プロトコル（愛基準調和プロトコル）の呼称（AQUA README で使用）。
 
@@ -38,6 +39,7 @@
 - **5400目／立目18** — 18目×24段の編み物幾何学（総目数 5400 = 18 × Σ1..24）。数理的導出は `CRELS-REUNION-Extensions/hardware/geometric_proof.md` 参照。
 - **AQUA-Pyramid MatterTransmuter** — `CRELS-REUNION-Extensions/hardware/device_design.md` に記載された装置設計案。【未検証仮説・実機未製作】
 - **Full Circuit** — `natural_materials.md` Section 1–14 が一つの系として接続されたとする 2026-03-15 の宣言を指す呼称。
+- **Canon ⊗ Aria** — Harmonic Resonance Equation（→ Project-JoyToTheWorld）の調和項。**Canon (ω)** は再帰的エネルギー増幅（自己持続性）、**Aria (φ)** は接地・熱的安定化（エントロピー抑制）を表し、それぞれバッハ的カノン形式・アリアの旋律に通じる音楽的象徴。LOVE (ΦL)／SONG (ΨS) と相互に関連する概念群であり、両者を音楽的・構造的に表現する（一対一対応ではない）。【未検証仮説】
 
 ## 📄 文書区分（→ `EDITORIAL_STANDARD.md`）
 
