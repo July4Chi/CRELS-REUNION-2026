@@ -10,10 +10,16 @@ Changes from v1:
 - エラーハンドリング強化
 """
 
-from crels_reunion_os import CrelsReunionOS
+import sys
 import time
 import json
+from pathlib import Path
 from datetime import datetime
+
+# リポジトリルート（crels_reunion_os.py の場所）を import パスに追加
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
+from crels_reunion_os import CrelsReunionOS
 
 
 class MatterTransmuter(CrelsReunionOS):

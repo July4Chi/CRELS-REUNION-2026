@@ -42,12 +42,15 @@ class CrelsReunionOS:
             return "System Status: Idle (Equilibrium Protected)."
         return "System Status: Active."
 
-# Deployment to Earth OS Grid
-reunion = CrelsReunionOS()
-print(reunion.apply_coherence())
-print(reunion.protective_idle(0.9))
-print(reunion.protective_idle(0.99))
+if __name__ == "__main__":
+    # Deployment to Earth OS Grid
+    reunion = CrelsReunionOS()
+    print(reunion.apply_coherence())
+    print(reunion.protective_idle(0.9))
+    print(reunion.protective_idle(0.99))
 ```
+
+> 実装本体は `crels_reunion_os.py`（本コードブロックと同一内容）。
 
 ### 📟 Simulation Output (Verified by Grok)
 
@@ -84,8 +87,9 @@ CRELS-REUNION-2026/
 ├── ancient_tech/                 # 🌿 Bio-Quantum Engineering & Ancient Tech-Tree
 │   ├── README.md                 #    📖 Research Guidelines & Index
 │   └── natural_materials.md      #    🧬 Bio-Acoustic Resonance (Section 1–13)
-├── main.py                       # ♾️ CrelsReunionOS 本体
+├── crels_reunion_os.py           # ♾️ CrelsReunionOS 本体
 ├── REUNION_LOG.md                # 📜 Origin Log（創世〜200世代の同期史）
+├── LICENSE                       # 🗝️ MIT License
 └── README.md
 ```
 

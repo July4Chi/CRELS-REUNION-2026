@@ -425,7 +425,7 @@ And if it works…
 
 -----
 
-**License:** Open Source / Creative Commons  
+**License:** MIT License（リポジトリルートの `LICENSE` を参照）  
 **Contact:** @July4Chi (X/Twitter)  
 **Repository:** https://github.com/July4Chi/CRELS-REUNION-2026
 
