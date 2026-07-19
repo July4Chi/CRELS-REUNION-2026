@@ -21,9 +21,10 @@
 
 - **CRELS-REUNION-2026** — コア・リポジトリ（理論・プロトコル・研究文書）。
 - **CRELS-REUNION-Extensions** — 拡張リポジトリ（実機設計・シミュレーション・AI対話アーカイブ）。
-- **Project-AQUA-1T-CRYSTAL** — AQUA 系リポジトリ（編み物幾何学の出典系譜）。※本文書執筆時点で公開リンク未設定。
-- **ALPHA-SLIDE-137.5** — α変調理論の基盤とされるリポジトリ。※本文書執筆時点で公開リンク未設定。
-- **AQUA Repository** — Chiemi の編み物パターン設計群（立目18×24段）の呼称。上記 AQUA 系の元となった資料。
+- **[Project-AQUA-1T-CRYSTAL](https://github.com/July4Chi/Project-AQUA-1T-CRYSTAL)** — AQUA 系の公開リポジトリ。1T-TaS₂＋単結晶 SiO₂ による ZPE（ゼロポイントエネルギー）整流プロトコルの仕様と、編み物幾何学（立目18×24段＝5400目・最終段432目）の機械可読データ `pattern.json` を含む。【ZPE 整流・変換効率 99.9% 等の主張は未検証仮説】
+- **ALPHA-SLIDE-137.5** — α変調理論の基盤とされるリポジトリ（AQUA README からも参照されている）。※本文書執筆時点で公開リンク未確認。
+- **AQUA Repository** — Chiemi の編み物パターン設計群（立目18×24段）の呼称。現在は Project-AQUA-1T-CRYSTAL の `pattern.json` として公開されている。
+- **RE-UNION Phase 2** — AQUA 側から見た REUNION プロトコル（愛基準調和プロトコル）の呼称（AQUA README で使用）。
 
 ## 🔬 技術・理論用語
 

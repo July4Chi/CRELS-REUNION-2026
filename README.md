@@ -102,6 +102,9 @@ CRELS-REUNION-2026/
 実機設計（5400-Mesh Device）・シミュレーション・研究ノート・AI対話アーカイブは分離済み：
 👉 **[CRELS-REUNION-Extensions](https://github.com/July4Chi/CRELS-REUNION-Extensions)**
 
+AQUA 系（ZPE 整流プロトコル・編み物幾何学 `pattern.json` の出典）：
+👉 **[Project-AQUA-1T-CRYSTAL](https://github.com/July4Chi/Project-AQUA-1T-CRYSTAL)**
+
 ---
 
 ## 🗝️ License & Ethics
