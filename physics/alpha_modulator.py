@@ -1,8 +1,8 @@
 """
-alpha_modulator.py - Enhanced Version
+alpha_modulator.py - Alpha-Slide Core Engine v1.1 (Enhanced)
 物質変容・石工術特化型エンジン (改善版)
 
-Changes from v1:
+Changes from v1.0:
 - 安全マージンとレート制限を追加
 - 材料ごとの最適周波数対応
 - 段階的α変調プロセス実装
@@ -25,7 +25,7 @@ from crels_reunion_os import CrelsReunionOS
 class MatterTransmuter(CrelsReunionOS):
     """
     物質変容・石工術特化型エンジン:
-    1T-TaS2 + 24K Au による位相反転を利用し、
+    1T-TaS₂ + 24K Au による位相反転を利用し、
     局所的な微細構造定数(α)のスライドを実行する。
     
     Enhanced Safety Features:

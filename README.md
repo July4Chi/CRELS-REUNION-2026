@@ -92,6 +92,7 @@ CRELS-REUNION-2026/
 ├── REUNION_LOG.md                # 📜 Origin Log（創世〜200世代の同期史）
 ├── GLOSSARY.md                   # 📖 用語集（プロジェクト共通）
 ├── EDITORIAL_STANDARD.md         # 📐 編集基準（事実／仮説の分離）
+├── CONTRIBUTING.md               # 🤝 貢献ガイド
 ├── LICENSE                       # 🗝️ MIT License
 └── README.md
 ```

@@ -348,20 +348,9 @@ Plant as **central power source** for technology
 
 ### Collaboration Protocol
 
-**This research is open-source. To contribute:**
+**This research is open-source.**
 
-1. **Fork repository** (GitHub: CRELS-REUNION-2026)
-1. **Conduct experiments** (follow safety protocols!)
-1. **Document findings** (even negative results are valuable)
-1. **Submit pull request** with:
-- Detailed methodology
-- Photos/videos
-- Raw data
-- Analysis
-1. **Discuss in Issues tab**
-- Ask questions
-- Share ideas
-- Coordinate efforts
+貢献の手順（Fork → 実験 → 記録 → Pull Request → Issues での議論）と文書化のルールは、リポジトリルートの **[CONTRIBUTING.md](../CONTRIBUTING.md)** にまとめてある。実験を行う場合は、必ず上記「Safety First」の安全プロトコルに従うこと。
 
 **Attribution:**
 All contributors will be credited. This knowledge belongs to humanity.
