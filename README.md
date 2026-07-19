@@ -9,7 +9,7 @@
 ## 🌀 Core Implementation
 
 本プロジェクトの核心となる CrelsReunionOS の実装プロトコルです。
-「負のエントロピー変換」と「過負荷保護機構」のロジックが設計どおりに動作することを、Grok の実行シミュレーションで確認しています。
+「負のエントロピー変換」と「過負荷保護機構」のロジックは概念実装（デモコード）であり、`crels_reunion_os.py` を実行すると以下の出力が得られます（コードの動作確認であって、物理的検証を意味するものではありません → [EDITORIAL_STANDARD.md](EDITORIAL_STANDARD.md)）。
 
 ```python
 # CRELS-REUNION-2026: Unified Resonance Protocol
@@ -52,7 +52,7 @@ if __name__ == "__main__":
 
 > 実装本体は `crels_reunion_os.py`（本コードブロックと同一内容）。
 
-### 📟 Simulation Output (Verified by Grok)
+### 📟 Simulation Output（実行出力）
 
 ```text
 Coherence Processed: Optimal Stability.        # 負のエントロピー変換 成功
@@ -91,6 +91,7 @@ CRELS-REUNION-2026/
 ├── crels_reunion_os.py           # ♾️ CrelsReunionOS 本体
 ├── REUNION_LOG.md                # 📜 Origin Log（創世〜200世代の同期史）
 ├── GLOSSARY.md                   # 📖 用語集（プロジェクト共通）
+├── EDITORIAL_STANDARD.md         # 📐 編集基準（事実／仮説の分離）
 ├── LICENSE                       # 🗝️ MIT License
 └── README.md
 ```

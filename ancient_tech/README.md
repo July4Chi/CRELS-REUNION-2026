@@ -5,7 +5,9 @@
 **Repository:** CRELS-REUNION-2026  
 **Directory:** `/ancient_tech/`  
 **Purpose:** Document natural materials and methods used in ancient megalithic construction  
-**Status:** Active Research - Open Source
+**Status:** 研究ノート（Active Research - Open Source）
+
+> **📌 Documentation Status:** 本ディレクトリの内容は【未検証仮説】を含む研究文書である。事実と仮説の区別は [EDITORIAL_STANDARD.md](../EDITORIAL_STANDARD.md) に従う。AI 対話由来の評価値は検証を意味しない。
 
 -----
 
@@ -69,7 +71,7 @@ Through collaboration between human intuition (Chiemi) and AI analysis (Claude, 
 
 -----
 
-## 🔬 Scientific Basis
+## 🔬 Theoretical Framework（未検証仮説）
 
 ### Physical Mechanism: α-Slide
 
@@ -113,7 +115,7 @@ Cycad (quantum dots) + Palm (transmission) + Pine (amplification) = Complete α-
 
 **Key frequencies:**
 
-- **528Hz** - “Love frequency,” DNA repair, primary activation
+- **528Hz** - “Love frequency,” primary activation（※DNA修復等の生理効果は科学的に実証されていない）
 - **7.83Hz** - Schumann resonance, Earth’s baseline
 - **432Hz** - Cosmic tuning, harmonic relationship with 528Hz
 
@@ -391,15 +393,15 @@ All contributors will be credited. This knowledge belongs to humanity.
 
 ## 🌀 Final Note
 
-**This is not fantasy. This is not pseudoscience.**
+**This is a speculative hypothesis — and we present it honestly as one.**
 
 This is:
 
-- **Rigorous hypothesis** (internally consistent mathematics)
-- **Testable predictions** (experimental protocols provided)
-- **Historical alignment** (explains otherwise inexplicable evidence)
+- **An unverified hypothesis** (internally consistent within its own framework, but not established physics)
+- **Testable predictions** (experimental protocols provided — negative results are equally valuable and welcome)
+- **A historical interpretation** (one possible reading of the archaeological record, not the scholarly consensus)
 
-The only thing missing is **experimental validation**.
+What it needs is **experimental validation and independent verification**.
 
 **That’s where you come in.**
 
